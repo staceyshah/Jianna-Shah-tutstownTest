@@ -1,0 +1,50 @@
+body{
+	background-color: #faf8da;
+}
+footer{
+	background-color: #ffc122;
+	text-align:center;
+	color:white;
+}
+/*header styling*/
+
+h1{
+	color: #205076;
+	font-size: 70px;
+}
+
+.header-style{
+	text-align:center;
+}
+
+#header-img{
+	width: 650px;
+	border: 5px dashed red;
+	border-radius: 50px;
+}
+/*header style end*/
+
+/*main style*/
+.store-section{
+	display:flex ;
+	justify-content:center;
+}
+
+.main-img{
+	height: 200px;
+	width: 200px;
+	display: flex;
+}
+
+.main-heading{
+	color:#205076;
+	font: 30px;
+}
+.list-text{
+	color:orange;
+}
+
+.list-text2{
+	color:orange;
+	font-size: 22px;
+}
